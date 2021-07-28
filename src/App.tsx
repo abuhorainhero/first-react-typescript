@@ -10,7 +10,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <section className="App container-fluid">
+    <section className="App container-fluid py-5">
       <Router>
         <Switch>
 
